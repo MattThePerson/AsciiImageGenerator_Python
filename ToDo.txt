@@ -1,0 +1,13 @@
+
+
+ToDo:
+- optimize block processing
+- add ability to scale images
+- add inverted mode
+- add ability to do 6pt (0.5 scale)
+
+
+Done: 
+
+
+
